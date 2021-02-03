@@ -1,0 +1,503 @@
+{
+"street":
+[
+    {
+        "begin":    { "x": "38",  "y": "30" },
+        "end":      { "x": "57",   "y": "199"  },
+    	"name": "Bauerova"
+     },
+     {
+    	"begin":    { "x": "57",   "y": "199"   },
+        "end":      { "x": "238",   "y": "234"  },
+    	"name": "Bellova"
+     },
+     {
+    	"begin":    { "x": "238",   "y": "234"   },
+        "end":      { "x": "222",   "y": "382"  },
+    	"name": "Bendlova"
+     },
+		{
+        "begin":    { "x": "222",  "y": "382" },
+        "end":      { "x": "350",   "y": "409"  },
+    	"name": "Zimni"
+     },
+     {
+    	"begin":    { "x": "350",   "y": "409"   },
+        "end":      { "x": "352",   "y": "528"  },
+    	"name": "Ztracena"
+     },
+     {
+    	"begin":    { "x": "352",   "y": "528"   },
+        "end":      { "x": "554",   "y": "560"  },
+    	"name": "Botanicka"
+     },
+		{
+        "begin":    { "x": "554",  "y": "560" },
+        "end":      { "x": "654",   "y": "492"  },
+    	"name": "Na Padelkach"
+     },
+     {
+    	"begin":    { "x": "654",   "y": "492"   },
+        "end":      { "x": "792",   "y": "503"  },
+    	"name": "Ecerova"
+     },
+     {
+    	"begin":    { "x": "792",   "y": "503"   },
+        "end":      { "x": "827",   "y": "610"  },
+    	"name": "Kamechy"
+     },
+		{
+        "begin":    { "x": "827",  "y": "610" },
+        "end":      { "x": "723",   "y": "704"  },
+    	"name": "Bartolomejska"
+     },
+     {
+    	"begin":    { "x": "723",   "y": "704"   },
+        "end":      { "x": "549",   "y": "773"  },
+    	"name": "Celni"
+     },
+     {
+    	"begin":    { "x": "549",   "y": "773"   },
+        "end":      { "x": "602",   "y": "915"  },
+    	"name": "Vyletni"
+     },
+		{
+        "begin":    { "x": "372",  "y": "47" },
+        "end":      { "x": "498",   "y": "113"  },
+    	"name": "Ondrouskova"
+     },
+     {
+    	"begin":    { "x": "498",   "y": "113"   },
+        "end":      { "x": "385",   "y": "231"  },
+    	"name": "Uzka"
+     },
+     {
+    	"begin":    { "x": "385",   "y": "231"   },
+        "end":      { "x": "608",   "y": "267"  },
+    	"name": "Ceska"
+     },
+		{
+        "begin":    { "x": "608",  "y": "267" },
+        "end":      { "x": "654",   "y": "492"  },
+    	"name": "Husitska"
+     },
+     {
+    	"begin":    { "x": "723",   "y": "704"   },
+        "end":      { "x": "916",   "y": "812"  },
+    	"name": "Pod Kopcem"
+     },
+     {
+    	"begin":    { "x": "916",   "y": "812"   },
+        "end":      { "x": "927",   "y": "989"  },
+    	"name": "Veveri"
+     },
+		{
+        "begin":    { "x": "927",  "y": "989" },
+        "end":      { "x": "769",   "y": "1003"  },
+    	"name": "Tabor"
+     },
+     {
+    	"begin":    { "x": "57",   "y": "529"   },
+        "end":      { "x": "186",   "y": "548"  },
+    	"name": "Serikova"
+     },
+     {
+    	"begin":    { "x": "186",   "y": "548"   },
+        "end":      { "x": "350",   "y": "409"  },
+    	"name": "Sosnova"
+     },
+		{
+        "begin":    { "x": "554",  "y": "560" },
+        "end":      { "x": "414",   "y": "676"  },
+    	"name": "Jasanova"
+     },
+     {
+    	"begin":    { "x": "414",   "y": "676"   },
+        "end":      { "x": "549",   "y": "773"  },
+    	"name": "Jedlova"
+     },
+     {
+    	"begin":    { "x": "549",   "y": "773"   },
+        "end":      { "x": "415",   "y": "832"  },
+    	"name": "Smrkova"
+     },
+		{
+    	"begin":    { "x": "415",   "y": "832"   },
+        "end":      { "x": "251",   "y": "793"  },
+    	"name": "Dubova"
+     },
+		{
+        "begin":    { "x": "251",  "y": "793" },
+        "end":      { "x": "141",   "y": "911"  },
+    	"name": "Jablonova"
+     },
+     {
+    	"begin":    { "x": "414",   "y": "676"   },
+        "end":      { "x": "278",   "y": "644"  },
+    	"name": "Hruskova"
+     },
+     {
+    	"begin":    { "x": "278",   "y": "644"   },
+        "end":      { "x": "170",   "y": "685"  },
+    	"name": "Brizova"
+     },
+{
+    	"begin":    { "x": "170",   "y": "685"   },
+        "end":      { "x": "47",   "y": "669"  },
+    	"name": "Zajeci"
+     },
+		{
+        "begin":    { "x": "870",   "y": "320" },
+        "end":      { "x": "792",  "y": "503"  },
+    	"name": "Kralici"
+     },
+     {
+    	"begin":    {  "x": "715",   "y": "177"  },
+        "end":      { "x": "870",   "y": "320"  },
+    	"name": "Zeyerova"
+     },
+     {
+    	"begin":    {  "x": "866",   "y": "60"  },
+        "end":      { "x": "716",   "y": "176"  },
+    	"name": "Zatloukalova"
+     },
+		{
+        "begin":    { "x": "792",  "y": "503" },
+        "end":      { "x": "723",   "y": "704"  },
+    	"name": "Zderadova"
+     },
+		{
+        "begin":    { "x": "723",   "y": "704" },
+        "end":      { "x": "554",  "y": "560"  },
+    	"name": "Vodni"
+     },
+		{
+        "begin":    { "x": "350",  "y": "409" },
+        "end":      { "x": "608",   "y": "267"  },
+    	"name": "Vratna"
+     },
+		{
+        "begin":    { "x": "608",   "y": "267" },
+        "end":      { "x": "870",  "y": "320"  },
+    	"name": "Vlkova"
+     },
+		{
+        "begin":    { "x": "870",  "y": "320" },
+        "end":      { "x": "981",   "y": "569"  },
+    	"name": "Obla"
+     },
+		{
+        "begin":    { "x": "981",   "y": "569" },
+        "end":      { "x": "916",  "y": "812"  },
+    	"name": "Obvodova"
+     },
+		{
+        "begin":    { "x": "916",  "y": "812" },
+        "end":      { "x": "602",   "y": "915"  },
+    	"name": "Opletalova"
+     },
+		{
+        "begin":    { "x": "602",   "y": "915" },
+        "end":      { "x": "141",  "y": "911"  },
+    	"name": "Dolni"
+     },
+		{
+        "begin":    { "x": "141",  "y": "911" },
+        "end":      { "x": "21",   "y": "797"  },
+    	"name": "Dohnalova"
+     },
+		{
+        "begin":    { "x": "21",   "y": "797" },
+        "end":      { "x": "8",  "y": "730"  },
+    	"name": "Dornych"
+     },
+		{
+        "begin":    { "x": "8",  "y": "730" },
+        "end":      { "x": "-11",   "y": "606"  },
+    	"name": "Demlova"
+     },
+		{
+        "begin":    { "x": "141",  "y": "911" },
+        "end":      { "x": "63",   "y": "1031"  },
+    	"name": "Kamelova"
+     },
+		{
+        "begin":    { "x": "602",  "y": "915" },
+        "end":      { "x": "382",   "y": "1029"  },
+    	"name": "Kamanova"
+     }
+ ],
+"stop":
+[
+    {
+        "position": {  "x": "52.857015",     "y": "162.149238"},
+        "name": "Mendlovo Namesti"
+    },
+    {
+        "position": {  "x": "137.958485",     "y": "214.654956"},
+        "name": "Vystaviste - hlavni vstup"
+    },
+    {
+        "position": {  "x": "216.313396",     "y": "229.806458"},
+        "name": "Lipova"
+    },
+    {
+        "position": {  "x": "227.308852",     "y": "332.893121"},
+        "name": "Pisarky"
+    },
+    {
+        "position": {  "x": "289.844932",     "y": "396.311040"},
+        "name": "Anthropos"
+    },
+    {
+        "position": {  "x": "351.351729",     "y": "489.427850"},
+        "name": "Sarka"
+    },
+    {
+        "position": {  "x": "350.467955",     "y": "436.843341"},
+        "name": "Antonina Prochazky"
+    },
+    {
+        "position": {  "x": "529.702997",     "y": "556.150970"},
+        "name": "Vyletni"
+    },
+    {
+        "position": {  "x": "387.141560",     "y": "533.566980"},
+        "name": "Myslivni"
+    },
+    {
+        "position": {  "x": "740.332083",     "y": "498.881543"},
+        "name": "Zebetinska"
+    },
+    {
+        "position": {  "x": "810.573550",     "y": "559.781997"},
+        "name": "Kohoutovicka, hajenka"
+    },
+    {
+        "position": {  "x": "797.064044",     "y": "637.057498"},
+        "name": "Stara dalnice"
+    },
+    {
+        "position": {  "x": "610.151817",     "y": "748.750142"},
+        "name": "Kohoutovicka"
+    },
+    {
+        "position": {  "x": "700.326603",     "y": "712.991175"},
+        "name": "Kopce"
+    },
+    {
+        "position": {  "x": "591.435606",     "y": "886.695397"},
+        "name": "Zebetin, skola"
+    },
+    {
+        "position": {  "x": "395.825223",     "y": "59.479879"},
+        "name": "Zooligicka zahrada"
+    },
+    {
+        "position": {  "x": "462.988304",     "y": "94.660540"},
+        "name": "Namesti 28. dubna"
+    },
+    {
+        "position": {  "x": "400.769195",     "y": "214.533053"},
+        "name": "Vondrakova"
+    },
+    {
+        "position": {  "x": "484.934406",     "y": "247.132909"},
+        "name": "Wollmanova"
+    },
+    {
+        "position": {  "x": "554.774099",     "y": "258.407478"},
+        "name": "Adamcova"
+    },
+    {
+        "position": {  "x": "620.110885",     "y": "326.238023"},
+        "name": "Stouracova"
+    },
+    {
+        "position": {  "x": "649.549105",     "y": "470.229320"},
+        "name": "Stara Dalnice"
+    },
+    {
+        "position": {  "x": "920.189016",     "y": "879.405073"},
+        "name": "Bellova"
+    },
+    {
+        "position": {  "x": "924.808238",     "y": "953.732556"},
+        "name": "Talichova"
+    },
+    {
+        "position": {  "x": "907.745575",     "y": "990.706088"},
+        "name": "Pavlovska"
+    },
+    {
+        "position": {  "x": "782.678215",     "y": "1001.788006"},
+        "name": "Jirovcova"
+    },
+    {
+        "position": {  "x": "129.942531",     "y": "539.743474"},
+        "name": "Pod Jurankou"
+    },
+    {
+        "position": {  "x": "255.212919",     "y": "489.337831"},
+        "name": "Veslarska"
+    },
+    {
+        "position": {  "x": "498.291694",     "y": "606.158311"},
+        "name": "Kamenov"
+    },
+    {
+        "position": {  "x": "450.575323",     "y": "702.280047"},
+        "name": "Ukrajinska"
+    },
+    {
+        "position": {  "x": "492.162029",     "y": "732.160865"},
+        "name": "Uzbecka"
+    },
+    {
+        "position": {  "x": "479.851917",     "y": "803.445798"},
+        "name": "Kejbaly"
+    },
+    {
+        "position": {  "x": "367.731616",     "y": "820.759348"},
+        "name": "Univerzitni kampus"
+    },
+    {
+        "position": {  "x": "179.259326",     "y": "869.958178"},
+        "name": "Nemocnice Bohunice"
+    },
+    {
+        "position": {  "x": "390.413872",     "y": "670.450323"},
+        "name": "Kamenolom"
+    },
+    {
+        "position": {  "x": "196.144502",     "y": "675.074772"},
+        "name": "Kamenolomna"
+    },
+    {
+        "position": {  "x": "137.697872",     "y": "680.798097"},
+        "name": "po Kamena"
+    },
+    {
+        "position": {  "x": "832.455610",     "y": "408.084915"},
+        "name": "Kamenice"
+    },
+    {
+        "position": {  "x": "734.257116",     "y": "194.766242"},
+        "name": "Kamenna"
+    },
+    {
+        "position": {  "x": "813.550643",     "y": "267.920916"},
+        "name": "Kamen"
+    },
+    {
+        "position": {  "x": "815.07365",     "y": "99.383042"},
+        "name": "od Kamena"
+    },
+    {
+        "position": {  "x": "478.033094",     "y": "338.532173"},
+        "name": "Jundrov, hriste"
+    },
+    {
+        "position": {  "x": "595.171966",     "y": "274.060391"},
+        "name": "Jundrovsky most"
+    },
+    {
+        "position": {  "x": "704.895435",     "y": "286.600985"},
+        "name": "Vozovna Komin"
+    },
+    {
+        "position": {  "x": "899.653955",     "y": "386.521035"},
+        "name": "Stursova"
+    },
+    {
+        "position": {  "x": "878.178485",     "y": "338.346330"},
+        "name": "Hlavni"
+    },
+    {
+        "position": {  "x": "955.178859",     "y": "665.531343"},
+        "name": "Rosickeho namesti"
+    },
+    {
+        "position": {  "x": "936.197511",     "y": "736.492382"},
+        "name": "Privrat"
+    },
+    {
+        "position": {  "x": "759.118221",     "y": "863.461220"},
+        "name": "Zahrebska"
+    },
+    {
+        "position": {  "x": "652.656255",     "y": "898.383458"},
+        "name": "Skacelova"
+    },
+    {
+        "position": {  "x": "401.724875",     "y": "913.262255"},
+        "name": "Slovanske namesti"
+    },
+    {
+        "position": {  "x": "47.112772",     "y": "821.807134"},
+        "name": "Husitska"
+    },
+    {
+        "position": {  "x": "18.492917",     "y": "784.078879"},
+        "name": "Semilasso"
+    },
+    {
+        "position": {  "x": "3.249665",     "y": "698.997812"},
+        "name": "Kralovo Pole, nadrazi"
+    },
+    {
+        "position": {  "x": "-4.644015",     "y": "647.481167"},
+        "name": "Kocianka"
+    },
+    {
+        "position": {  "x": "103.497290",     "y": "968.696476"},
+        "name": "Pod nemocnici"
+    },
+    {
+        "position": {  "x": "74.484438",     "y": "1013.331635"},
+        "name": "Osova"
+    },
+    {
+        "position": {  "x": "542.034113",     "y": "946.073232"},
+        "name": "Krivankovo Namesti"
+    },
+    {
+        "position": {  "x": "456.491870",     "y": "990.399668"},
+        "name": "Zebetin, hrbitov"
+    }
+],
+"path":
+[
+    {
+	"linkName": "52",
+	"speed" : "60",
+        "interval": "5",
+        "streetNames": ["Bauerova", "Bellova", "Bendlova", "Zimni", "Ztracena", "Botanicka", "Na Padelkach", "Ecerova", "Kamechy", "Bartolomejska", "Celni", "Vyletni", "Kamanova"]
+    },
+    {
+	"linkName": "45",
+	"speed" : "70",
+        "interval": "2",
+        "streetNames": ["Ondrouskova", "Uzka", "Ceska", "Husitska", "Ecerova", "Kamechy", "Bartolomejska", "Pod Kopcem", "Veveri", "Tabor" ]
+    },
+    {
+	"linkName": "23",
+	"speed" : "80",
+        "interval": "3",
+        "streetNames": ["Serikova", "Sosnova", "Ztracena", "Botanicka", "Jasanova", "Jedlova", "Smrkova", "Dubova", "Jablonova", "Kamelova"]
+    },
+    {
+	"linkName": "11",
+	"speed" : "60",
+        "interval": "4",
+        "streetNames": ["Zatloukalova", "Zeyerova", "Kralici", "Zderadova", "Vodni", "Jasanova", "Hruskova", "Brizova", "Zajeci"]
+    },
+    {
+	"linkName": "84",
+	"speed" : "90",
+        "interval": "10",
+        "streetNames": ["Serikova", "Sosnova","Vratna", "Vlkova", "Obla", "Obvodova", "Opletalova", "Dolni", "Dohnalova", "Dornych", "Demlova"]
+    }
+]
+}
+
